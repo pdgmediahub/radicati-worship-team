@@ -1,5 +1,4 @@
 // RADICATI Worship Team · spartiti digitali e PDF originali.
-// Gli accordi in [parentesi] sono trasponibili; dove i PDF mostrano solo una progressione, essa resta su una riga separata.
 window.REPERTOIRE = {
   "sessions": [
     {
