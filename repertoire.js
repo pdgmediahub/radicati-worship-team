@@ -23,7 +23,7 @@ window.REPERTOIRE = {
           "time": "",
           "audio": "audio/02-Gratitude.mp3",
           "pdf": "pdf/02-Gratitude-in-B.pdf",
-          "chart": "## VERSE\n[B]Cosa mai potrò\n[G#m]Dire a te di più\nPer es[F#]primere Gratitud[E]ine\nForse canterò una canzone in più\nMa tutto ha una fine\nTutto ma non tu\n\n## CHORUS\n[B]Alzo le mani e\nLa mia lode offrirò ancora[F#] a Te\nPerché ciò che ho è solo un Al[E]leluia\n[G#m] [F#]Alleluia\n[B]E so che non basta ma\nNon ho nient'altro degno di [F#]un Re\nMa solo un cuore che canta All[E]eluia\n[G#m] [F#] [B]Alleluia\n\n## VERSE 2\nLa risposta ho\nÈ quello che farò\nBraccia aperte a te\nIo ti adorerò\n\n## BRIDGE\n[B]Anima mia non puoi vergognarti\n[F#]Dai! Innalzalo!\n[E]Ricorda che vive un leone in Te\nRialzati e [B]loda il [F#]Re"
+          "chart": "## VERSE\n[B]Cosa mai potrò\n[G#m]Dire a te di più\nPer es[F#]primere Gratitud[E]ine\nForse canterò una canzone in più\nMa tutto ha una fine\nTutto ma non tu\n\n## CHORUS\n[B]Alzo le mani e\nLa mia lode offrirò ancora[F#] a Te\nPerché ciò che ho è solo un [E]Alleluia\n[G#m] [F#]Alleluia\n[B]E so che non basta ma\nNon ho nient'altro degno di un [F#]Re\nMa solo un cuore che canta [E]Alleluia\n[G#m] [F#] [B]Alleluia\n\n## VERSE 2\nLa risposta ho\nÈ quello che farò\nBraccia aperte a te\nIo ti adorerò\n\n## BRIDGE\n[B]Anima mia non puoi vergognarti\n[F#]Dai! Innalzalo!\n[E]Ricorda che vive un leone in Te\nRialzati e [B]loda il [F#]Re"
         },
         {
           "title": "Opportunità",
@@ -69,7 +69,7 @@ window.REPERTOIRE = {
           "time": "",
           "audio": "",
           "pdf": "pdf/06-Per-Adorarti-in-C.pdf",
-          "chart": "## STROFA 1\n[C]Quando vedo la Tua sant[F]ità\n[C]Quando ammiro la Tua be[F]ltà\n[C]Quel ch’è intorno a[G] me\nDiventa[Am] ombra nella luce Tua [Bb][G]\n\n## STROFA 2\n[C]Quand’ho trovato la via al Tu[F]o cuore\n[C]Tu mi hai dato gioia e ver[F]o amore\n[C]Ed io scopro la vera ra[Am]gione\n[Bb]Per cui io [G]vivo\n\n## CORO\nPer [F]adorarTi Sig[G]nor\n[Em]Per adorarTi Si[Am]gnor\n[Dm]La ragione per cui [G]vivo\nÈ adorarTi Si[C]gnor."
+          "chart": "## STROFA 1\n[C]Quando vedo la Tua sant[F]ità\n[C]Quando ammiro la Tua be[F]ltà\n[C]Quel ch’è intorno a[G] me\n[Am]Diventa ombra nella [Bb]luce [G]Tua\n\n## STROFA 2\n[C]Quand’ho trovato la via al Tu[F]o cuore\n[C]Tu mi hai dato gioia e ver[F]o amore\n[C]Ed io scopro la vera ra[Am]gione\n[Bb]Per cui io [G]vivo\n\n## CORO\nPer [F]adorarTi Sig[G]nor\n[Em]Per adorarTi Si[Am]gnor\n[Dm]La ragione per cui [G]vivo\nÈ adorarTi Si[C]gnor."
         }
       ]
     },
@@ -98,14 +98,14 @@ window.REPERTOIRE = {
           "chart": "## STROFA 1\n[A] [E]\nBasta solo respirare\nL’atmosfera del tuo amore\nPer riuscire ad ascoltare\nLa tua Pace che mi avvolge\n\n## STROFA 2\n[C#m] [Bm] [Am] [E] [B]\nI pensieri che io ho\nVoglio che ascoltino Te\nPer riuscire a comprendere\nChe Tu puoi tutto\n\n## CORO\n[E] [C#m] [A] [E]\nE non ha senso\nNon fidarmi di te\nTu hai pensato a tutto\nE io mi arrendo a te\n\n## BRIDGE\n[F#m] [A] [E]\nMeglio un giorno con te che mille altrove\nSolo tu calmi il mio cuore\n\n## FINALE\n[A] [E]\nTu hai pensato a tutto\nE io mi arrendo a te"
         },
         {
-          "title": "Jesus Be The Name",
-          "key": "D",
+          "title": "Make Room",
+          "key": "E",
           "bpm": "",
-          "artist": "Worship Team",
+          "artist": "Community Music",
           "time": "",
-          "audio": "audio/09-Jesus-Be-The-Name.m4a",
-          "pdf": "pdf/09-Jesus-Be-The-Name-in-D.pdf",
-          "chart": "## INTRO\n[D] [A/C#] [G] | [D] [A/C#] [G]\n\n## VERSO 1\n[D]Potrei cantare per [A/C#]sempre il t[G]uo nome\n[D]E ti amerei[A/C#] sempre di[G] più\n[Bm]Gesù [A]sulle mie labbra sia il tu[G]o nome\n[Bm]Un nome [A]più dolce per me non c[G]’è\n\n## CORO\nC’è qualcosa nel tuo nom[Em]e\n[G]C’è qualcosa nel tuo nome\n[D]C’è qualcosa nel tuo nome\nChe mi fa grida[A]re “santo”\nNon esiste un altro n[Em]ome\n[G]Non esiste un altro nome\n[D]Non esiste un altro nome\n[Bm]Gesù Tu sei [A]degno\n\n## VERSO 2\n[D]Tu sei [A/C#]sempre stato [Em]qui per [G]me\n[D]E mai s[A/C#]corderò la T[Em]ua fedelt[G]à\n[Bm]Gesù [A]sulle mie labbra sia il tuo [G]nome\n[Bm]Un nome [A]più dolce per me non [G]c’è\n\n## CORO · RIPETERE\nRipetere coro; su “santo”: [Bm] [A] (variante)\n\n## STRUMENTALE\n[Em] [G] [Bm] [A]\n\n## BRIDGE\n[Em]Gesù il Tuo nome è la luce del mattino\n[G]Che non si può spegnere\n[Bm]Risorto e vivo [A]sei, Gesù\n[Em]Gesù il Tuo nome salva e guarisce\n[G]E calma le tempeste, non fallisce e\n[Bm]Mai lo [A]farà, Gesù\n[Em]Gesù sei il pane della vita che per noi\n[G]È stato spezzato, il primo e l’ultimo\n[Bm]Tu torne[A]rai, Gesù\n[Em]Gesù sei il Re, la morte hai vinto\n[G]E regni per l’eternità\n[Bm]Nome al di sopra di ogni nome [A]sei, Gesù\n\n## CORO 2\n[Em]Gesù è il nome\n[G]Gesù è il nome\n[D]Gesù è il nome\n[Bm]Che riceve la [A]gloria\n\n## CORI FINALI\n[Em] [G] [D]C’è guarigione nel Tuo nome (x3)\n[A]Che mi fa gridare “santo”\n[Em] [G] [D]C’è libertà nel Tuo nome (x3)\n[A]Che mi fa gridare “santo”\n[Em] [G] [D]C’è salvezza nel Tuo nome (x3)\n[A]Che mi fa gridare “santo”"
+          "audio": "audio/09-Make-Room.mp3",
+          "pdf": "pdf/09-Make-Room-in-E.pdf",
+          "chart": "## PROGRESSIONE GENERALE (DAL PDF)\n[E] [B] [F#m] [A]\n\n## STROFA 1\nQui è dove lascerò l’orgoglio e il peso del mio cuor\nQui è la mia arresa, questa è la mia arresa\n\n## STROFA 2\nQui è dove lascerò ogni dubbio e ogni bugia,\nquesta è la mia arresa\n\n## CORO\nIo apro il mio cuore a te\nPuoi fare quello che tu vuoi\nPuoi fare quello che tu vuoi\n\n## PONTE\nTogli da me ogni tradizione\nabbatti le mura della religione\nTu sei migliore, Tu sei migliore"
         }
       ]
     }
